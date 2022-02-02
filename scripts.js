@@ -1,7 +1,4 @@
 
-       
-            
-          
             elem.onclick = function dis() {
             let A = document.getElementById('inp_1').value 
             let B = document.getElementById('inp_2').value 
